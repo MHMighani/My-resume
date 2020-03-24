@@ -1,0 +1,143 @@
+{
+	"name": "Mohammad Hosein",
+    "lastName": "Mighani",
+    "jobTitle": "web developer",
+	"phoneNumber": "+989387157534",
+    "emailAddress": "mh.mgh2012@gmail.com",
+    "summary":"I'm a self taught web developer. I have worked in both front-end and back-end fields in the personal projects that I've worked on but my main proficieny is in front-end technologies like JavaScript,ReactJs and redux.",
+	"birthday": {
+		"year": 1994,
+		"month": 6,
+		"day": 2
+	},
+	"links": {
+		"github": "https://github.com/MHMighani",
+		"linkedin": "https://www.linkedin.com/in/mohammad-hosein-mighani-441221b6/",
+		"stackoverflow": "https://stackoverflow.com/users/9587883/m-h-mighani"
+	},
+	"expriences": [
+		{
+			"title": "Python Developer",
+			"company": "Madar Tarah Arad",
+			"from": "2 april 2019",
+			"to": "22 sep 2019",
+			"technologies": ["python", "PyQt5", "Tkinter","Linux"]
+		}
+	],
+	"education": [
+		{
+			"university": "Babol Noshirvani University of Technology",
+			"field": "Mechanical engineering",
+			"degree": "Bachelor Degree",
+			"span": {
+				"from": 2012,
+				"to": 2016
+			}
+		},
+		{
+			"university": "Ferdowsi University of Mashhad",
+			"field": "Mechanical engineering",
+			"degree": "Master degree",
+			"span": {
+				"from": 2017,
+				"to": 2020
+			}
+		}
+	],
+	"Personal Projects": [
+		{
+			"title": "instagram profile checker",
+            "description": "This is a CRَUD app that uses instagram public endpoint for saving a user's public information such as bio,profile picture,... and saves them to a database. app checks for any changes in public information and notifies user and saves new data in database.",
+            "githubAddress":"https://github.com/MHMighani/react-insta-profile-check",
+            "technologies":["ReactJS","Express.JS","MySQL","Semantic UI","Express handlebars","REST"]
+        },
+        {
+            "title":"Chortkeh",
+            "description":"many people convert their money to other currencies such as Dollar,Euro,Gold and others to preserve their reserve from inflation. This app uses api to show current value of reserves in each investment.",
+            "githubAddress":"https://github.com/MHMighani/chortkeh-client",
+            "technologies":["ReactJS","Redux","MongoDB","Bootstrap"]
+        },
+        {
+            "title":"English words",
+            "description":"A CRUD app built with Vanilla JS and jQery that uses Merriam Webster Dictionary Api for definitions and stores them in a database.",
+            "githubAddress":"https://github.com/MHMighani/english-words-app",
+            "technologies":["javaScript","MySQL","expressJS"]
+        },
+        {
+            "title":"mobile store",
+            "description": "client side of an online mobile store built with ReactJS and it's context api",
+            "githubAddress":"https://github.com/MHMighani/react-mobile-store",
+            "technologies":["ReactJS"]
+        }
+	],
+	"skills": [
+		{
+			"name": "Python",
+			"level": "intermediate"
+		},
+		{
+			"name": "PyQt",
+			"level": "intermediate"
+		},
+		{
+			"name": "Jango",
+			"level": "beginner"
+        },
+        {
+            "name":"CSS frameworks",
+            "level": "intermediate"
+        },
+		{
+			"name": "Html",
+			"level": "advanced"
+		},
+		{
+			"name": "CSS",
+			"level": "advanced"
+		},
+		{
+			"name": "JavaScript",
+			"level": "advanced"
+		},
+		{
+			"name": "PreProcessors",
+			"level": "intermediate"
+		},
+		{
+			"name": "ReactJS",
+			"level": "advanced"
+		},
+		{
+			"name": "Express.js",
+			"level": "intermediate"
+		},
+		{
+			"name": "Redux",
+			"level": "intermediate"
+		},
+		{
+			"name": "MySQL",
+			"level": "beginner"
+		},
+		{
+			"name": "MongoDB",
+			"level": "intermediate"
+		},
+		{
+			"name": "REST",
+			"level": "advanced"
+		},
+		{
+			"name": "Linux",
+			"level": "intermediate"
+		},
+		{
+			"name": "Git",
+			"level": "intermediate"
+		},
+		{
+			"name": "Bash",
+			"level": "beginner"
+		}
+	]
+}
