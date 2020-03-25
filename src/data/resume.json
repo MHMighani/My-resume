@@ -1,9 +1,11 @@
 {
 	"name": "Mohammad Hosein",
     "lastName": "Mighani",
-    "jobTitle": "web developer",
-	"phoneNumber": "+989387157534",
-    "emailAddress": "mh.mgh2012@gmail.com",
+	"jobTitle": "Front End developer",
+	"contactLinks":{
+		"phone": "+989387157534",
+		"envelope": "mh.mgh2012@gmail.com"
+	},
     "summary":"I'm a self taught web developer. I have worked in both front-end and back-end fields in the personal projects that I've worked on but my main proficieny is in front-end technologies like JavaScript,ReactJs and redux.",
 	"birthday": {
 		"year": 1994,
@@ -12,8 +14,7 @@
 	},
 	"links": {
 		"github": "https://github.com/MHMighani",
-		"linkedin": "https://www.linkedin.com/in/mohammad-hosein-mighani-441221b6/",
-		"stackoverflow": "https://stackoverflow.com/users/9587883/m-h-mighani"
+		"linkedin": "https://www.linkedin.com/in/mohammad-hosein-mighani-441221b6/"
 	},
 	"expriences": [
 		{
