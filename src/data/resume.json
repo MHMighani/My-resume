@@ -16,12 +16,13 @@
 		"github": "https://github.com/MHMighani",
 		"linkedin": "https://www.linkedin.com/in/mohammad-hosein-mighani-441221b6/"
 	},
-	"expriences": [
+	"experiences": [
 		{
 			"title": "Python Developer",
 			"company": "Madar Tarah Arad",
-			"from": "2 april 2019",
-			"to": "22 sep 2019",
+			"description": "collaborated in the process of building a voip app as a python developer",
+			"from": "april 2019",
+			"to": "sep 2019",
 			"technologies": ["python", "PyQt5", "Tkinter","Linux"]
 		}
 	],
