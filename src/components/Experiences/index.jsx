@@ -7,7 +7,8 @@ class Experiences extends React.Component {
 	renderExperiences = () => {
 		const experiences = resumeData.experiences.map(experience => {
 			return (
-				<li className="experience-item">
+				<ul>
+					<li className="experience-item">
 					<div className="experience-title">{experience.title}</div>
 					<div className="experience-span">
 						{experience.from} - {experience.to}
@@ -19,6 +20,8 @@ class Experiences extends React.Component {
                         <TechUsedList techList={experience.technologies} />
                     </div>
 				</li>
+				</ul>
+				
 			);
 		});
 		return experiences;
