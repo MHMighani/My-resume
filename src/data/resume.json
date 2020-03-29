@@ -1,12 +1,12 @@
 {
 	"name": "Mohammad Hosein",
-    "lastName": "Mighani",
+	"lastName": "Mighani",
 	"jobTitle": "Front End developer",
-	"contactLinks":{
+	"contactLinks": {
 		"phone": "+989387157534",
 		"envelope": "mh.mgh2012@gmail.com"
 	},
-    "summary":"I'm a self taught web developer. I have worked in both front-end and back-end fields in the personal projects that I've worked on but my main proficieny is in front-end technologies like JavaScript,ReactJs and redux.",
+	"summary": "I'm a self taught web developer. I have worked in both front-end and back-end fields in the personal projects that I've worked on but my main proficieny is in front-end technologies like JavaScript,ReactJs and redux.",
 	"birthday": {
 		"year": 1994,
 		"month": 6,
@@ -23,7 +23,7 @@
 			"description": "collaborated in the process of building a voip app as a python developer",
 			"from": "april 2019",
 			"to": "sep 2019",
-			"technologies": ["python", "PyQt5", "Tkinter","Linux"]
+			"technologies": ["python", "PyQt5", "Tkinter", "Linux"]
 		}
 	],
 	"education": [
@@ -49,97 +49,45 @@
 	"Personal Projects": [
 		{
 			"title": "instagram profile checker",
-            "description": "This is a CRَUD app that uses instagram public endpoint for saving a user's public information such as bio,profile picture,... and saves them to a database. app checks for any changes in public information and notifies user and saves new data in database.",
-            "githubAddress":"https://github.com/MHMighani/react-insta-profile-check",
-            "technologies":["ReactJS","Express.JS","MySQL","Semantic UI","Express handlebars","REST"]
-        },
-        {
-            "title":"Chortkeh",
-            "description":"many people convert their money to other currencies such as Dollar,Euro,Gold and others to preserve their reserve from inflation. This app uses api to show current value of reserves in each investment.",
-            "githubAddress":"https://github.com/MHMighani/chortkeh-client",
-            "technologies":["ReactJS","Redux","MongoDB","Bootstrap"]
-        },
-        {
-            "title":"English words",
-            "description":"A CRUD app built with Vanilla JS and jQery that uses Merriam Webster Dictionary Api for definitions and stores them in a database.",
-            "githubAddress":"https://github.com/MHMighani/english-words-app",
-            "technologies":["javaScript","MySQL","expressJS"]
-        },
-        {
-            "title":"mobile store",
-            "description": "client side of an online mobile store built with ReactJS and it's context api",
-            "githubAddress":"https://github.com/MHMighani/react-mobile-store",
-            "technologies":["ReactJS"]
-        }
+			"description": "This is a CRَUD app that uses instagram public endpoint for saving a user's public information such as bio,profile picture,... and saves them to a database. app checks for any changes in public information and notifies user and saves new data in database.",
+			"githubAddress": "https://github.com/MHMighani/react-insta-profile-check",
+			"technologies": ["ReactJS", "Express.JS", "MySQL", "Semantic UI", "Express handlebars", "REST"]
+		},
+		{
+			"title": "Chortkeh",
+			"description": "many people convert their money to other currencies such as Dollar,Euro,Gold and others to preserve their reserve from inflation. This app uses api to show current value of reserves in each investment.",
+			"githubAddress": "https://github.com/MHMighani/chortkeh-client",
+			"technologies": ["ReactJS", "Redux", "MongoDB", "Bootstrap"]
+		},
+		{
+			"title": "English words",
+			"description": "A CRUD app built with Vanilla JS and jQery that uses Merriam Webster Dictionary Api for definitions and stores them in a database.",
+			"githubAddress": "https://github.com/MHMighani/english-words-app",
+			"technologies": ["javaScript", "MySQL", "expressJS"]
+		},
+		{
+			"title": "mobile store",
+			"description": "client side of an online mobile store built with ReactJS and it's context api",
+			"githubAddress": "https://github.com/MHMighani/react-mobile-store",
+			"technologies": ["ReactJS"]
+		}
 	],
 	"skills": [
-		{
-			"name": "Python",
-			"level": "intermediate"
-		},
-		{
-			"name": "PyQt",
-			"level": "intermediate"
-		},
-		{
-			"name": "Jango",
-			"level": "beginner"
-        },
-        {
-            "name":"CSS frameworks",
-            "level": "intermediate"
-        },
-		{
-			"name": "Html",
-			"level": "advanced"
-		},
-		{
-			"name": "CSS",
-			"level": "advanced"
-		},
-		{
-			"name": "JavaScript",
-			"level": "advanced"
-		},
-		{
-			"name": "PreProcessors",
-			"level": "intermediate"
-		},
-		{
-			"name": "ReactJS",
-			"level": "advanced"
-		},
-		{
-			"name": "Express.js",
-			"level": "intermediate"
-		},
-		{
-			"name": "Redux",
-			"level": "intermediate"
-		},
-		{
-			"name": "MySQL",
-			"level": "beginner"
-		},
-		{
-			"name": "MongoDB",
-			"level": "intermediate"
-		},
-		{
-			"name": "REST",
-			"level": "advanced"
-		},
-		{
-			"name": "Linux",
-			"level": "intermediate"
-		},
-		{
-			"name": "Git",
-			"level": "intermediate"
-		},
-		{
-			"name": "Bash",
-			"level": "beginner"
-		}
+		"Python",
+		"PyQt",
+		"Jango",
+		"CSS frameworks",
+		"HTML/CSS",
+		"Javascript",
+		"SASS",
+		"ReactJS",
+		"Express.js",
+		"Redux",
+		"MySQL",
+		"MongoDB",
+		"REST",
+		"Linux",
+		"Git",
+		"Bash"
 	]
 }
