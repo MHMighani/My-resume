@@ -1,5 +1,6 @@
 import React from 'react';
 import Basics from './Basics';
+import Skills from '../components/Skills'
 import Education from './Education'
 import Experiences from './Experiences'
 import PersonalProjects from './PersonalProjects'
@@ -14,6 +15,7 @@ const App = () => {
 	return (
 		<div className="resume">
 			<Basics />
+			<Skills />
 			<Education />
 			<Experiences />
 			<PersonalProjects />
