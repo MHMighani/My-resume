@@ -4,7 +4,7 @@
 	"jobTitle": "Front End developer",
 	"contactLinks": {
 		"phone": "+989387157534",
-		"envelope": "mh.mgh2012@gmail.com"
+		"email": "mh.mgh2012@gmail.com"
 	},
 	"summary": "I'm a self taught web developer. I have worked in both front-end and back-end fields in the personal projects that I've worked on but my main proficieny is in front-end technologies like JavaScript,ReactJs and redux.",
 	"birthday": {
@@ -48,7 +48,7 @@
 	],
 	"Personal Projects": [
 		{
-			"title": "instagram profile checker",
+			"title": "Instagram scraper",
 			"description": "This is a CRَUD app that uses instagram public endpoint for saving a user's public information such as bio,profile picture,... and saves them to a database. app checks for any changes in public information and notifies user and saves new data in database.",
 			"githubAddress": "https://github.com/MHMighani/react-insta-profile-check",
 			"technologies": ["ReactJS", "Express.JS", "MySQL", "Semantic UI", "Express handlebars", "REST"]
@@ -69,7 +69,7 @@
 			"title": "mobile store",
 			"description": "client side of an online mobile store built with ReactJS and it's context api",
 			"githubAddress": "https://github.com/MHMighani/react-mobile-store",
-			"technologies": ["ReactJS"]
+			"technologies": ["ReactJS","React-Context"]
 		}
 	],
 	"skills": [
