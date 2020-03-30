@@ -1,21 +1,22 @@
 import React from 'react';
 import TechUsedList from '../TechUsedList'
 import resumeData from '../../data/resume';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
+import './index.scss'
 
 class PersonalProjects extends React.Component {
 	renderPersonalProjects = () => {
 		const personalProjects = resumeData['Personal Projects'].map(project => {
 			return (
 				<li className="personal-projects-item">
-					<div className="project-title">{project.title}</div>
-					<div className="project-description"></div>
+					<h3 className="project-title">{project.title}</h3>
+					<p className="project-description">{project.description}</p>
 					<a href={project.githubAddress} rel="noopener noreferrer" target="_blank" className="project-link">
-						project link
+						<span><FontAwesomeIcon className="github-icon" icon={['fab','github']} /></span>
+						<span className="project-address">{project.githubAddress}</span>
 					</a>
-                    <div className="used-technologies-list">
-                        <h3>technologies used</h3>
                         <TechUsedList techList={project.technologies} />
-                    </div>
 				</li>
 			);
 		});
@@ -26,7 +27,7 @@ class PersonalProjects extends React.Component {
 	render() {
 		return (
 			<section className="personal-projects-section">
-				<h2>Personal projects</h2>
+				<h2 className="section-title">Personal projects</h2>
 				{this.renderPersonalProjects()}
 			</section>
 		);

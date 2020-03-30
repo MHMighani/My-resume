@@ -1,6 +1,7 @@
 import React from 'react';
 import resumeData from '../../data/resume';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
+import './index.scss'
 
 class Education extends React.Component {
 	renderEducation = () => {
@@ -9,7 +10,7 @@ class Education extends React.Component {
 				<li className="education-details">
 					<div className="degree">{educationInfo.field}</div>
 					<div className="university-name">{educationInfo.university}</div>
-					<div className="education-span">
+					<div className="time-span">
 						{educationInfo.span.from} - {educationInfo.span.to}
 					</div>
 				</li>
@@ -22,10 +23,7 @@ class Education extends React.Component {
 	render() {
 		return (
 			<section className="education">
-				<h2>
-					<span className="education-icon">
-						<FontAwesomeIcon icon="university" />
-					</span>
+				<h2 className="section-title">
 					Education
 				</h2>
 				{this.renderEducation()}

@@ -15,10 +15,10 @@ const App = () => {
 	return (
 		<div className="resume">
 			<Basics />
-			<Skills />
-			<Education />
 			<Experiences />
 			<PersonalProjects />
+			<Education />
+			<Skills />
 		</div>
 		
 	)

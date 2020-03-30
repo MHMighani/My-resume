@@ -6,7 +6,7 @@ import './index.scss'
 const Skills = () => {
     return (
         <section className="skills-section">
-            <h2>Skills</h2>
+            <h2 className="section-title">Skills</h2>
             <TechUsedList techList={resumeData.skills} />
         </section>
         
