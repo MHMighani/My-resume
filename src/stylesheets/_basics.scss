@@ -5,3 +5,21 @@
     padding:0;
 }
 
+body{
+    font-family: $body_font;
+    background-color:lightblue;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+
+    color:#123456;
+}
+
+section{
+    padding:1rem 0; 
+}
