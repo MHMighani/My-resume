@@ -10,8 +10,8 @@ class Experiences extends React.Component {
 			return (
 				<ul>
 					<li className="experience-item">
-						<div className="company-name">{experience.company}</div>
 						<div className="experience-title">{experience.title}</div>
+						<div className="company-name">{experience.company}</div>
 						<div className="time-span">
 							{experience.from} - {experience.to}
 						</div>
