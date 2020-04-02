@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MHMighani/My-resume/static/css/main.17765250.chunk.css",
-    "main.js": "/MHMighani/My-resume/static/js/main.7dbeff8c.chunk.js",
-    "main.js.map": "/MHMighani/My-resume/static/js/main.7dbeff8c.chunk.js.map",
-    "runtime-main.js": "/MHMighani/My-resume/static/js/runtime-main.cbaf9437.js",
-    "runtime-main.js.map": "/MHMighani/My-resume/static/js/runtime-main.cbaf9437.js.map",
-    "static/js/2.3e3b152e.chunk.js": "/MHMighani/My-resume/static/js/2.3e3b152e.chunk.js",
-    "static/js/2.3e3b152e.chunk.js.map": "/MHMighani/My-resume/static/js/2.3e3b152e.chunk.js.map",
-    "index.html": "/MHMighani/My-resume/index.html",
-    "precache-manifest.4e88c7b91eee56ae75fdba14e7435dc6.js": "/MHMighani/My-resume/precache-manifest.4e88c7b91eee56ae75fdba14e7435dc6.js",
-    "service-worker.js": "/MHMighani/My-resume/service-worker.js",
-    "static/css/main.17765250.chunk.css.map": "/MHMighani/My-resume/static/css/main.17765250.chunk.css.map",
-    "static/js/2.3e3b152e.chunk.js.LICENSE.txt": "/MHMighani/My-resume/static/js/2.3e3b152e.chunk.js.LICENSE.txt"
+    "main.css": "/MHMighani/my-resume/static/css/main.17765250.chunk.css",
+    "main.js": "/MHMighani/my-resume/static/js/main.7dbeff8c.chunk.js",
+    "main.js.map": "/MHMighani/my-resume/static/js/main.7dbeff8c.chunk.js.map",
+    "runtime-main.js": "/MHMighani/my-resume/static/js/runtime-main.6b076492.js",
+    "runtime-main.js.map": "/MHMighani/my-resume/static/js/runtime-main.6b076492.js.map",
+    "static/js/2.3e3b152e.chunk.js": "/MHMighani/my-resume/static/js/2.3e3b152e.chunk.js",
+    "static/js/2.3e3b152e.chunk.js.map": "/MHMighani/my-resume/static/js/2.3e3b152e.chunk.js.map",
+    "index.html": "/MHMighani/my-resume/index.html",
+    "precache-manifest.0273d37b166e154ff8a41454e4d8a051.js": "/MHMighani/my-resume/precache-manifest.0273d37b166e154ff8a41454e4d8a051.js",
+    "service-worker.js": "/MHMighani/my-resume/service-worker.js",
+    "static/css/main.17765250.chunk.css.map": "/MHMighani/my-resume/static/css/main.17765250.chunk.css.map",
+    "static/js/2.3e3b152e.chunk.js.LICENSE.txt": "/MHMighani/my-resume/static/js/2.3e3b152e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbaf9437.js",
+    "static/js/runtime-main.6b076492.js",
     "static/js/2.3e3b152e.chunk.js",
     "static/css/main.17765250.chunk.css",
     "static/js/main.7dbeff8c.chunk.js"
