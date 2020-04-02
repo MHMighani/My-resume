@@ -1,12 +1,12 @@
 {
 	"name": "Mohammad Hosein",
 	"lastName": "Mighani",
-	"jobTitle": "Front End developer",
+	"jobTitle": "web developer",
 	"contactLinks": {
 		"phone": "+989387157534",
 		"email": "mh.mgh2012@gmail.com"
 	},
-	"summary": "I'm a self taught web developer. I have worked in both front-end and back-end fields in the personal projects that I've worked on but my main proficieny is in front-end technologies like JavaScript,ReactJs and redux.",
+	"summary": "self-taught web developer who has mainly focused on Javascript Front-End technologies and has proficiency in Javascript,Node.js and React.js. eager to solve problems and build responsive and creative web applications.",
 	"birthday": {
 		"year": 1994,
 		"month": 6,
@@ -14,13 +14,13 @@
 	},
 	"links": {
 		"github": "https://github.com/MHMighani",
-		"linkedin": "https://www.linkedin.com/in/mohammad-hosein-mighani-441221b6/"
+		"linkedin": "https://www.linkedin.com/in/mh-mighani"
 	},
 	"experiences": [
 		{
 			"title": "Python Developer",
-			"company": "Madar Tarah Arad",
-			"description": "collaborated in the process of building a voip app as a python developer",
+			"company": "Madar Tarah Arad Co",
+			"description": "collaborated in the process of building user interface of a voip app as a python developer.",
 			"from": "april 2019",
 			"to": "sep 2019",
 			"technologies": ["python", "PyQt5", "Tkinter", "Linux"]
@@ -48,16 +48,16 @@
 	],
 	"Personal Projects": [
 		{
-			"title": "Instagram scraper",
-			"description": "This is a CRَUD app that uses instagram public endpoint for saving a user's public information such as bio,profile picture,... and saves them to a database. app checks for any changes in public information and notifies user and saves new data in database.",
+			"title": "Instagram profile checker",
+			"description": "This is a CRَUD app that uses instagram public endpoint for saving a user's public information such as bio,profile picture,privacy status and saves them to a database. app checks for any changes in public information and notifies about change and saves new data in database by keeping record of previous data.",
 			"githubAddress": "https://github.com/MHMighani/react-insta-profile-check",
 			"technologies": ["ReactJS", "Express.JS", "MySQL", "Semantic UI", "Express handlebars", "REST"]
 		},
 		{
 			"title": "Chortkeh",
-			"description": "many people convert their money to other currencies such as Dollar,Euro,Gold and others to preserve their reserve from inflation. This app uses api to show current value of reserves in each investment.",
+			"description": "Many people convert their money to other forms such as Dollar,Euro,Gold and others to preserve their reserve from inflation. This app uses api to show current value of reserves in each investment.",
 			"githubAddress": "https://github.com/MHMighani/chortkeh-client",
-			"technologies": ["ReactJS", "Redux", "MongoDB", "Bootstrap"]
+			"technologies": ["ReactJS", "Redux", "MongoDB", "Bootstrap","REST"]
 		},
 		{
 			"title": "English words",
@@ -67,7 +67,7 @@
 		},
 		{
 			"title": "mobile store",
-			"description": "client side of an online mobile store built with ReactJS and it's context api",
+			"description": "Client side of an online mobile store built with ReactJS and it's context api",
 			"githubAddress": "https://github.com/MHMighani/react-mobile-store",
 			"technologies": ["ReactJS","React-Context"]
 		}
@@ -76,7 +76,7 @@
 		"Python",
 		"PyQt",
 		"Jango",
-		"CSS frameworks",
+		"Bootstrap",
 		"HTML/CSS",
 		"Javascript",
 		"SASS",
@@ -88,6 +88,7 @@
 		"REST",
 		"Linux",
 		"Git",
-		"Bash"
+		"Bash",
+		"socket.io"
 	]
 }
