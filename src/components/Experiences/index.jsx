@@ -15,7 +15,7 @@ class Experiences extends React.Component {
 						<div className="time-span">
 							{experience.from} - {experience.to}
 						</div>
-						<div className="experience-description">{experience.description}</div>
+						<p className="experience-description">{experience.description}</p>
 						<div className="used-technologies-list">
 							<TechUsedList techList={experience.technologies} />
 						</div>

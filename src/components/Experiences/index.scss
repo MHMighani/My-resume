@@ -1,6 +1,11 @@
 .experience-item{
-    line-height: 1.4rem;
+    line-height: 1.5rem;
     .experience-title{
-        font-style: italic;
+        font-size: 1.2rem;
+        font-weight: 500;
+    }
+
+    .company-name{
+        font-size: .9rem;
     }
 }

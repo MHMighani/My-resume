@@ -6,10 +6,10 @@ header{
     h1,h3{
         text-align: center;
     }
-}
 
-h1,h2,h3,h4,h5,h6{
-    margin: 1rem 0;
+    @media only screen and (max-width: 640px){
+        flex-direction: column;
+    }
 }
 
 .first-name,.last-name{
@@ -17,21 +17,15 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .profile-links{
-    padding:15px;
+    padding: 0 15px;
     li{
         padding: 5px 10px;
+        white-space: nowrap;
     }
 
     span{
         margin-right:1em;
         font-size: 22px;
-    }
-}
-
-.inline-list{
-    li{
-        display:inline-block;
-        margin:0 5px;
     }
 }
 

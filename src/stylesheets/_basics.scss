@@ -1,8 +1,14 @@
 @import './_variables';
+@import './print';
 
 * {
     margin:0;
     padding:0;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 1rem 0 .1rem 0;
+    text-transform: capitalize;
 }
 
 body{
@@ -21,5 +27,9 @@ a{
 }
 
 section{
-    padding:1rem 0; 
+    padding:10px 0; 
+}
+
+P:first-letter{
+    text-transform: capitalize;
 }
