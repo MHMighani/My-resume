@@ -13,13 +13,13 @@
 
 ### Installing
 
-1.Clone this project
-2.Go to My-resume directory
+1. Clone this project
+2. Go to My-resume directory
 `cd My-resume`
-3.Install dependencies
+3. Install dependencies
 `npm install`
-4.Modify JSON file of resume at `/src/data/resume.JSON` according to your resume data
-5.Get webpage running:
+4. Modify JSON file of resume at `/src/data/resume.JSON` according to your resume data
+5. Get webpage running:
 `npm start`
 
 ## Deployment
